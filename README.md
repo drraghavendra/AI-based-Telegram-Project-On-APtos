@@ -1,4 +1,6 @@
-# AI-based-Telegram-Project-On-APtos  innovative Web3-enabled bot designed to transform Telegram communities by automating moderation, enhancing user engagement, and rewarding participation. Utilizing the Aptos blockchain, engage users  fosters transparent interactions, allowing users to earn and mint unique NFT Telegram stickers based on their community involvement.
+# Project Overview
+
+AI-based-Telegram-Project-On-APtos  innovative Web3-enabled bot designed to transform Telegram communities by automating moderation, enhancing user engagement, and rewarding participation. Utilizing the Aptos blockchain, engage users  fosters transparent interactions, allowing users to earn and mint unique NFT Telegram stickers based on their community involvement.
 
 Key Features
 Automated Moderation: Telegage streamlines community management by automatically enforcing rules and guidelines, ensuring a safe and inclusive environment.
